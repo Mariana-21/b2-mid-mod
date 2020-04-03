@@ -1,0 +1,7 @@
+<h1>All Amusement Parks</h1>
+
+<% @amusementparks.each do |park| %>
+    <h2><%= link_to park.name, "/amusementparks/#{park.id}" %></h2>
+    <p>Admissions: <%= park.admissions%></p>
+<% end %>
+    
