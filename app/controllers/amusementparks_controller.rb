@@ -3,4 +3,8 @@ class AmusementparksController < ApplicationController
         @amusementparks = AmusementPark.all
     end
 
+    def show
+        @amusementparks = AmusementPark.all
+    end
+
 end
