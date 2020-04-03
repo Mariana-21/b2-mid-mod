@@ -4,7 +4,7 @@ class AmusementparksController < ApplicationController
     end
 
     def show
-        @amusementparks = AmusementPark.all
+        @park = AmusementPark.find(params[:park_id])
     end
 
 end
