@@ -208,6 +208,8 @@
           null,
           null,
           1,
+          null,
+          1,
           null
         ]
       },
@@ -217,10 +219,34 @@
           null
         ]
       },
-      "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod/app/models/mechanic.rb": {
+      "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod/spec/features/mechanics/index_spec.rb": {
         "lines": [
           1,
           null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod/app/models/amusement_park.rb": {
+        "lines": [
+          1,
           null
         ]
       },
@@ -228,6 +254,30 @@
         "lines": [
           1,
           1,
+          null
+        ]
+      },
+      "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod/app/controllers/amusementparks_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod/app/models/mechanic.rb": {
+        "lines": [
+          1,
+          null,
           null
         ]
       },
@@ -240,15 +290,8 @@
           null,
           null
         ]
-      },
-      "/Users/marianaandrade/turing/mod2/challenges/b2-mid-mod/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
       }
     },
-    "timestamp": 1585928289
+    "timestamp": 1585930970
   }
 }
